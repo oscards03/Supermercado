@@ -1,1 +1,2 @@
 No se que escribir entonces esto es un texto cualquiera ahora desde la página de GitHub, modifica el fichero “inventario.txt” y guárdalo.
+Nose que poner otra vez Modifica el archivo “inventario.txt” en el repositorio remoto
